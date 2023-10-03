@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/" 
-title: Pascal Michaillat
+baseURL: "https://mathildecol.org/"
+title: Mathilde Col
 paginate: 20
 theme: PaperMod
 
@@ -11,28 +11,19 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
-          url: /papers/
+        - name: Research
+          url: /research/
           weight: 1
-        - name: Courses
-          url: /courses/
+        - name: CV
+          url: /cv/
           weight: 2
-        - name: Design
-          url: /design/
-          weight: 3
-        - name: Tags
-          url: /tags/
-          weight: 5     
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 4
 
 params:
-    description: "I am an Associate Professor of Economics at UC Santa Cruz. My research covers unemployment, economic slack, business cycles, and macroeconomic policy."
-    author: Pascal Michaillat
-    googleAnalyticsID: "G-97G4MZ4061"
+    description: "I am a PhD student at the Bordeaux School of Economics, under the supervision of Tanguy Bernard (BSE) and Denis Cogneau (PSE). I am interested in education in Africa, and especially the languages of instruction issue."
+    author: Mathilde Col
+    #googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
-    defaultTheme: light
+    defaultTheme: dark
     hideFooter: true
     disableThemeToggle: true
     ShowShareButtons: false
@@ -52,36 +43,30 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Pascal Michaillat
-          subtitle: "I am an Associate Professor of Economics at the University of California, Santa Cruz. I try to understand why economic slack—especially unemployment—exists and why it fluctuates over the business cycle. I also study how macroeconomic policies—including monetary policy, government spending, unemployment insurance, and immigration—should respond to such cyclical fluctuations."
-          imageUrl: "/picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
-          imageTitle: Pascal Michaillat
+          title : Mathilde Col
+          subtitle: "I am a PhD student at the [Bordeaux School of Economics](https://www.bse.u-bordeaux.fr/), under the supervision of [Tanguy Bernard (BSE)](https://sites.google.com/view/tanguybernard/home) and [Denis Cogneau](https://www.parisschoolofeconomics.eu/fr/cogneau-denis/) (PSE). I am interested in education in Africa, and especially the languages of instruction issue."
+          imageUrl: "/ID.jpg"
+          imageWidth: 200
+          imageHeight: 200
+          imageTitle: Mathilde Col
           buttons:
-            - name: Papers
-              url: /papers/
-            - name: Courses
-              url: /courses/
-            - name: Design
-              url: /design/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
+            - name: Research
+              url: /research/
+            - name: CV
+              url: https://www.dropbox.com/scl/fi/aq7q4nt44i2v6nnmulcvk/Academic_CV_2023.pdf?rlkey=dxgdkgpg7jvs7p490j8bbh4yv&dl=0
     socialIcons:
-        - name: CV
-          url: /cv.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
+          url: mailto:mathilde.col@gmail.com
+        - name: OrCID
+          url: https://orcid.org/0009-0005-3475-2969
+        - name : Twitter
+          url : https://twitter.com/colmathe
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/mathilde-col/
+        - name: GitHub
+          url: https://github.com/colmate
         - name: Location
           url: /location/
-        - name: Office Hours
-          url: /officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: GitHub
-          url: https://github.com/pmichaillat?tab=repositories
 
     assets:
         disableHLJS: true
@@ -90,7 +75,7 @@ params:
         hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "Pascal Michaillat"
+      text: "Mathilde Col"
       icon: /favicon.ico
       iconHeight: 18
 
@@ -100,7 +85,7 @@ markup:
             unsafe: true
     highlight:
         guessSyntax: true
-        style: autumn 
+        style: autumn
     tableOfContents:
         endLevel: 2
         ordered: false

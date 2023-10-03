@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Research on Mathilde Col</title>
+    <link>https://mathildecol.org/research/</link>
+    <description>Recent content in Research on Mathilde Col</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mathildecol.org/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Long-term effect of bilingual education, Evidence from Mali</title>
+      <link>https://mathildecol.org/mali_loi/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathildecol.org/mali_loi/</guid>
+      <description>DiD in Mali exploiting the introduction of local languages in public primary education during the 1990s</description>
+    </item>
+    
+    <item>
+      <title>RCT in Senegal assessing the impact of an offline library device</title>
+      <link>https://mathildecol.org/rct_senegal/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathildecol.org/rct_senegal/</guid>
+      <description>Impact evaluation assessing the effect of introducing Ideas Cubes provided by Bibliothèques Sans Frontières in remote schools in Senegal</description>
+    </item>
+    
+    <item>
+      <title>Mahay Mikolo project in Madagascar</title>
+      <link>https://mathildecol.org/mahay_mikolo/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathildecol.org/mahay_mikolo/</guid>
+      <description>RCT in Madagascar trying to assess the added value of an integrated stimulation component into the existing countrywide nutrition &amp;amp; health program.</description>
+    </item>
+    
+  </channel>
+</rss>
