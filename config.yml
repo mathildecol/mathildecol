@@ -53,7 +53,7 @@ params:
             - name: Research
               url: /research/
             - name: CV
-              url: https://www.dropbox.com/scl/fi/aq7q4nt44i2v6nnmulcvk/Academic_CV_2023.pdf?rlkey=dxgdkgpg7jvs7p490j8bbh4yv&dl=0
+              url: /cv/Academic_CV_2023.pdf
     socialIcons:
         - name: Email
           url: mailto:mathilde.col@gmail.com
