@@ -10,6 +10,8 @@ cover:
     relative: false
 ---
 
+*Baseline data collection done in Nov 2023*
+
 Research project implemented with a consulting firm specialized on evaluation in education [Eval Lab](https://fr.linkedin.com/company/eval-lab)
  - RCT in an isolated region with difficult access to electricity and the Internet (Kedougou).
  - Partnership with an NGO, Library Without Borders, that will provide an [offline digital library](https://www.librarieswithoutborders.org/ideasbox/) (plurality of curriculum-related content) in schools accessible mainly for teachers
