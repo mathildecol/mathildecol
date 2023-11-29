@@ -10,6 +10,7 @@ cover:
     relative: false
 ---
 
+#### Summary
  - Progressive extension of bilingual education since 1987
  - Archives documenting precisely this extension at the circle level (obtained via a contact working at the Ministry of Education)
  - Design: DiD or staggered DiD using the progressive scale-up
