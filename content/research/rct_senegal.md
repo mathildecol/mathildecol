@@ -10,26 +10,6 @@ cover:
     relative: false
 ---
 
-##### Summary
-
----
-
-#### Motivation
-   
-
-----
-
-#### Design 
-   
-
-----
-
-#### Outcomes
-   
-
-----
-
-#### Graphs
-   
-
-
+ - RCT in an isolated region with difficult access to electricity and the Internet (Kedougou).
+ - Partnership with an NGO, Library Without Borders, that will provide an offline digital library (plurality of curriculum-related content) in schools accessible mainly for teachers
+ - Outcomes: quality of teaching, teachers’ knowledge and students’ results
