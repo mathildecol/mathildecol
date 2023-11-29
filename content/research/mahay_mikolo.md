@@ -10,15 +10,6 @@ cover:
     relative: false
 ---
 
-##### Summary
-RCT in Madagascar trying to assess the added value of an integrated stimulation component into the existing countrywide nutrition & health program.
-
-
-####
-
----
-
-##### Study Protocol
-
-[Here](/papers/study_protocol_mahaymikolo.pdf)
+- RCT in Madagascar trying to assess the added value of an integrated stimulation component into the existing countrywide nutrition & health program.
+- Study protocol available [here](/papers/study_protocol_mahaymikolo.pdf)
 
