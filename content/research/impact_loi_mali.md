@@ -1,5 +1,6 @@
 ---
 title: Long term effects of bilingual education on learning & labor outcomes: Evidence from Mali
+date: 11-29-2023
 url: /mali_loi/
 author: ["Mathilde Col"]
 description: "" 
