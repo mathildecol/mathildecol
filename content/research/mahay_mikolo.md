@@ -10,6 +10,7 @@ cover:
     relative: false
 ---
 
+Fieldwork done for the World Bank from 2019 to 2021
 - RCT in Madagascar trying to assess the added value of an integrated stimulation component into the existing countrywide nutrition & health program.
 - Study protocol available [here](/papers/study_protocol_mahaymikolo.pdf)
 
