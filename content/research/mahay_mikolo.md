@@ -1,6 +1,6 @@
 ---
 title: Mahay Mikolo project in Madagascar
-date: 2023-10-01
+date: 2021-04-01
 url: /mahay_mikolo/
 author: ["Mathilde Col"]
 description: "" 
