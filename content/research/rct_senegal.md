@@ -1,6 +1,6 @@
 ---
 title: RCT in Senegal assessing the impact of an offline library device
-date: 2023-10-02
+date: 2023-11-01
 url: /rct_senegal/
 author: ["Mathilde Col"]
 description: "" 
