@@ -1,10 +1,10 @@
 ---
-title: The supply side of bilingual education in Africa
+title: Unveiling the global determinants and effects of bilingual education policies in Africa
 date: 2023-06-01
 url: /descr_loi/
 author: ["Mathilde Col"]
 description: "" 
-summary: "Descriptive and comparative analysis of LoI (languages of instruction) policies"
+summary: "Unveiling the global determinants and effects of bilingual education policies in Africa"
 cover:
     alt: "Descriptive work LoI"
     relative: false
@@ -12,6 +12,4 @@ cover:
 
 *Preliminary draft available*
 
-- Creation of a comprehensive database listing all national reforms that have modified the LoI in all African countries since independence (as well as a non-exhaustive list of pilots)
-- Study of the context surrounding reforms to understand potential determinants (language diversity and development, ethnicity, urbanization, socialist period, etc.)
-- Descriptive analysis of the long-term educational and linguistic impact of these reforms, using Barro-Lee, census and survey data
+Most African students were taught in the colonial language at the independence. The vast majority of African countries have addressed the issue by changing the Language of Instruction (LoI) in primary education through official laws, replacing the colonial language with a local one. However, little is known about these linguistic policies' context and long-term effects. This paper proposes a data-driven cross-country comparison of all linguistic policies targeting LoI to highlight some stylized facts about the political and linguistic context surrounding the reforms, using a novel dataset on linguistic reforms in Africa. Past and present political features seem to matter when explaining the extensive margin. Using micro-data on eighteen African countries, I provide descriptive aggregated evidence on the effect of these bilingual education reforms. Results suggest that schooling and learning increase with the introduction of local languages in education, especially for women and students who have finished primary education.
