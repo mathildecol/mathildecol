@@ -1,7 +1,7 @@
 ---
 title: Unveiling the global determinants and effects of bilingual education policies in Africa
 date: 2023-06-01
-url: /descr_loi/
+url: /determinant_effect_loi_africa/
 author: ["Mathilde Col"]
 description: "" 
 summary: "Unveiling the global determinants and effects of bilingual education policies in Africa"
