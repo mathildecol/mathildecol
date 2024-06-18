@@ -1,5 +1,5 @@
 ---
-title: Improving Student Learning in Remote Areas with Digital Tools: A Randomized Experiment in Rural Senegal
+title: Improving Student Learning in Remote Areas with Digital Tools, A Randomized Experiment in Rural Senegal
 date: 2023-11-01
 url: /bsf_senegal/
 author: ["Mathilde Col"]
