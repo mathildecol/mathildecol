@@ -1,18 +1,15 @@
 ---
-title: Long term effects of bilingual education on learning & labor outcomes, Evidence from Mali
+title: “N m'a faamu”, Evaluation of the bilingual education program in Mali
 date: 2023-09-01
-url: /mali_loi/
+url: /mali_bilingual_educ/
 author: ["Mathilde Col"]
 description: "" 
-summary: "DiD in Mali exploiting the introduction of local languages in public primary education during the 1990s"
+summary: "“N m'a faamu”, Evaluation of the bilingual education program in Mali"
 cover:
     alt: "Impact LoI Mali"
     relative: false
 ---
 
-- Little to no rigorous evidence of impacts of nationwide policies introducing local languages in primary schools on education and labor outcomes. 
- - Progressive extension of bilingual education since 1987
- - Archives documenting precisely this extension at the circle level (obtained via a contact working at the Ministry of Education)
- - Design: DiD or staggered DiD using the progressive scale-up
- - Outcomes: using census data (the latest will be available next year) and/or survey data, examine at long-term impact (for adults over 15) of bilingual education on learning & labor outcomes
+**Ongoing working project**
 
+There is little to no rigorous evidence of impacts of nationwide policies introducing local languages in primary schools on education and labor outcomes. I use the progressive extension of bilingual education in the early 2000 to document the impact of bilingual education on education and labour market outcomes using a DID design. Using census data and archives on the policy extension, I find positive effects on learning and schooling. Early results show that people exposed to bilingual education in their language are more likely to hold a public job and not an agricultural one. Thiese findings are driven by women, people with longer schooling and happen especially in rural areas. All of this is consistent with the qualitative and quantitve literature on the topic.
