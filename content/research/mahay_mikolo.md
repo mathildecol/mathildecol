@@ -1,10 +1,10 @@
 ---
-title: Integrating early stimulation and play at scale using MAHAY Mikolo, a multi-arm cluster-randomized controlled trial
+title: Integrating early stimulation and play at scale - "MAHAY Mikolo", a multi-arm cluster-randomized controlled trial
 date: 2021-04-01
 url: /mahay_mikolo/
 author: ["Mathilde Col"]
 description: "" 
-summary: "Integrating early stimulation and play at scale: study protocol for "MAHAY Mikolo", a multi-arm cluster-randomized controlled trial"
+summary: "Integrating early stimulation and play at scale - MAHAY Mikolo, a multi-arm cluster-randomized controlled trial"
 cover:
     alt: "Mahay Mikolo"
     relative: false
