@@ -2,7 +2,7 @@
 title: Integrating early stimulation and play at scale - "MAHAY Mikolo", a multi-arm cluster-randomized controlled trial
 date: 2021-04-01
 url: /mahay_mikolo/
-author: ["Mathilde Col"]
+author: ["Emanuela Galasso", "Lisy Ratsifandrihamanana", "Ann M. Weber", "Caitlin Hemlock", "Mathilde Col", "Maria Dieci", "Lia C. H. Fernald "]
 description: "" 
 summary: "Integrating early stimulation and play at scale - MAHAY Mikolo, a multi-arm cluster-randomized controlled trial"
 cover:
