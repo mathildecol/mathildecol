@@ -59,8 +59,8 @@ params:
           url: mailto:mathilde.col@gmail.com
         - name: OrCID
           url: https://orcid.org/0009-0005-3475-2969
-        - name : Bluesky
-          url : https://bsky.app/colmathe
+        - name : bluesky
+          url : https://bsky.app/profile/colmathe.bsky.social
         - name: LinkedIn
           url: https://www.linkedin.com/in/mathilde-col/
         - name: GitHub
