@@ -53,13 +53,13 @@ params:
             - name: Research
               url: /research/
             - name: CV
-              url: /cv/Academic_CV_2023.pdf
+              url: /cv/resume_2025.pdf
     socialIcons:
         - name: Email
           url: mailto:mathilde.col@gmail.com
         - name: OrCID
           url: https://orcid.org/0009-0005-3475-2969
-        - name : bluesky
+        - name : BlueSky
           url : https://bsky.app/profile/colmathe.bsky.social
         - name: LinkedIn
           url: https://www.linkedin.com/in/mathilde-col/
