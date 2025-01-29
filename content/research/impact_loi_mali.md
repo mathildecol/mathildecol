@@ -1,10 +1,10 @@
 ---
-title: “N m'a faamu”, Boosting Learning Through Bilingual Education: Evidence from Mali
+title: “N m'a faamu”, Boosting Learning Through Bilingual Education. Evidence from Mali
 date: 2023-09-01
 url: /mali_bilingual_educ/
 author: ["Mathilde Col"]
 description: "" 
-summary: "“N m'a faamu”, Boosting Learning Through Bilingual Education: Evidence from Mali"
+summary: "Boosting Learning Through Bilingual Education: Evidence from Mali"
 cover:
     alt: "Impact LoI Mali"
     relative: false
