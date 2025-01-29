@@ -1,17 +1,17 @@
 ---
-title: “N m'a faamu”, Evaluation of the bilingual education program in Mali
+title: “N m'a faamu”, Boosting Learning Through Bilingual Education: Evidence from Mali
 date: 2023-09-01
 url: /mali_bilingual_educ/
 author: ["Mathilde Col"]
 description: "" 
-summary: "“N m'a faamu”, Evaluation of the bilingual education program in Mali"
+summary: "“N m'a faamu”, Boosting Learning Through Bilingual Education: Evidence from Mali"
 cover:
     alt: "Impact LoI Mali"
     relative: false
 ---
 
-**Ongoing working project**
+[*Working paper available*](/papers/COL_Mali.pdf)
 
-There is little to no rigorous evidence of impacts of nationwide policies introducing local languages in primary schools on education and labor outcomes. I use the progressive extension of bilingual education in early 2000 to document the impact of bilingual education on education and labor market outcomes using a DID design. Using census data and archives on the policy extension, I find positive effects on learning and schooling. Early results show that people exposed to bilingual education in their language are more likely to hold a public job and not an agricultural one. These findings are driven by women and people with longer schooling, especially in rural areas. This is consistent with the qualitative and quantitative literature on the topic.
+Bilingual education is increasingly recognized as a tool to address learning deficits in linguistically diverse contexts such as sub-Saharan countries. In this study, I analyze the long-term impacts of Mali’s 1999 bilingual education reform, which introduced local languages alongside French in primary schools. Using a Difference-in-Differences approach with detailed school-level data, I find that exposure to the reform improved literacy in both French and local languages and increased school attendance, particularly for women. Robustness tests using modern econometric techniques relaxing the assumption of homogeneous treatment effect confirm these results. However, its effectiveness depends on sufficient educational resources, such as low pupil-to-school ratios. These findings highlight the potential of mother tongue-based instruction to enhance learning and promote equity when paired with adequate school inputs. 
 
-![](/pix/map_treatment_dummy.png)
+![](/pix/event_study_mali.png)
