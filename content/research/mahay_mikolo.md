@@ -1,21 +1,33 @@
 ---
-title: Integrating early stimulation and play at scale - "MAHAY Mikolo", a multi-arm cluster-randomized controlled trial
+title: Integrating early child development into an existing health and nutrition program. Evidence from a cluster-randomized controlled trial
 date: 2021-04-01
 url: /mahay_mikolo/
-author: ["Emanuela Galasso", "Lisy Ratsifandrihamanana", "Ann M. Weber", "Caitlin Hemlock", "Mathilde Col", "Maria Dieci", "Lia C. H. Fernald "]
+author: ["Caitlin Hemlock", "Emanuela Galasso", "Ann M. Weber", "Tsirery Christian Randriamiarisoa", "Mathilde Col", "Maria Dieci", "Lisy Ratsifandrihamanana", "Lia C.H. Fernald"]     
 description: "" 
-summary: "Integrating early stimulation and play at scale - MAHAY Mikolo, a multi-arm cluster-randomized controlled trial"
+summary: "Integrating early child development into an existing health and nutrition program: evidence from a cluster-randomized controlled trial"
 cover:
     alt: "Mahay Mikolo"
     relative: false
 ---
 
-*Full study protocol available [here](/papers/study_protocol_mahaymikolo.pdf)*
+*Published paper in BMC Public Health available [here](https://doi.org/10.1186/s12889-024-20149-w)*
 
 **Fieldwork done for the World Bank from 2019 to 2021**
 
-Hundreds of millions of children living in poverty worldwide are not reaching their full, developmental potential. Programs to promote nurturing and responsive caregiving, such as those in which community health workers (CHWs) conduct home visits to support optimal early childhood development (ECD), have been effective in small trials, but have not achieved similar success at scale. This study will explore two approaches to scale-up: converting a home-visiting model to a group-based model; and integrating the ECD curriculum into an existing government program. The objectives of the study are to: 1) Measure how the integration of ECD activities affects time and task allocation of CHWs and CHW psychosocial wellbeing; 2) Examine how the integration of ECD activities affects caregiver-child dyad participation in standard health and nutrition activities; and 3) Explore how the availability of age-appropriate play materials at home affects caregiver-child dyad participation rates in a group-based ECD program.
+-----
 
-We will randomize 75 communities in rural Madagascar into three arms: 1) [C], which is the status quo (community-based health and nutrition program); 2) [T], which is C + ECD group sessions [T]; and 3) [T +], which is T with the addition of an enhanced play materials package for home use. All children between 6-30 months old at the time of the intervention launch will be eligible to participate in group activities. The intervention will last 12 months and is comprised of fortnightly group sessions in which the CHWs provide caregiver-child dyads with information relating to ECD; CHWs will also include structured time for caregivers to practice the play and child stimulation activities they have learned. We will administer monthly surveys to measure CHW time use and task allocation, and we will leverage administrative data to measure caregiver-child dyad participation in the group sessions.
+*Abstract*
 
-The results from the trial will provide the evidence base required to implement an integrated package of nutrition, health and ECD promotion activities at scale in Madagascar, and findings may be relevant in other low-income countries. 
+In low-resource settings, introducing child health programs into community services may compete for caregiver time. We analyzed the impact of a new early childhood development (ECD) program in rural Madagascar on family attendance at other health services and of adding at-home play materials on program attendance.
+Methods
+
+We randomized 75 communities where community health workers (CHWs) implement an existing child health and nutrition program (Projet d’Amélioration des Résultats Nutritionnels or PARN), the status quo. We offered two 6-month cycles of 12 ECD sessions to eligible caregiver-child dyads (6–30 months) in 25 sites [T]; we added take-home play materials in Cycle 2 to 25 sites [T+]. We used differences-in-differences with administrative data to analyze the effect of offering ECD sessions on monthly PARN attendance (T+/T vs. C) among age-eligible children and the impact of toy boxes/libraries on monthly ECD session attendance (T + vs. T). We used random intercept models to analyze characteristics associated with program registration.
+Results
+
+We analyzed data for 9,408 dyads; 30% and 32% registered for the program in Cycle 1 and 2 (respectively). On average, CHWs delivered 11.4 sessions (SD: 1.5). Children from wealthier households who already attended PARN sessions were more likely to register, and we found no effect of T or T + on PARN attendance. Adding play materials did not affect monthly ECD session attendance. Children from more populated sites were less likely to participate in both ECD and PARN sessions.
+Conclusions
+
+Integrating new services for ECD into the health system was feasible and did not reduce dyad participation in existing services. Investment in health services in more populated areas is needed to provide coverage to all eligible children. Novel strategies should be explored to engage the most vulnerable children in new and existing health services.
+Trial registration
+
+AEA Social Science Registry (AEARCTR-0004704) on November 15, 2019 (prospective registration) and ClinicalTrials.gov (NCT05129696) on November 22, 2021 (retrospective registration).
