@@ -22,16 +22,3 @@ FRANCE
 
 ---
 
-#### Office address in Paris
-
-
-
-Paris School of Economics  
-5ème étage, Bureau 69   
-48 bd. Jourdan  
-75014 PARIS  
-FRANCE
-
-
----
-
