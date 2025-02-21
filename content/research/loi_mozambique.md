@@ -1,7 +1,7 @@
 ---
 title: Strengthening the implementation of a bilingual education reform in Mozambique
 date: 2025-01-01
-url: /loi_mozambique/
+url: /igc_mozambique/
 author: ["Mathilde Col", "Juliette Crespin Boucaud", "Magona Sande"]
 description: "" 
 summary: "Strengthening the implementation of a bilingual education reform in Mozambique"
