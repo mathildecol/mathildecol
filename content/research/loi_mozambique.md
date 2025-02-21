@@ -6,7 +6,7 @@ author: ["Mathilde Col", "Juliette Crespin Boucaud", "Magona Sande"]
 description: "" 
 summary: "Strengthening the implementation of a bilingual education reform in Mozambique"
 cover:
-    alt: "Descriptive work LoI"
+    alt: "Mozambique LoI"
     relative: false
 ---
 
